@@ -8,7 +8,7 @@ namespace wk01_01
 {
     class Program
     {
-        static void Main(string[] args)
+       public static void Main(string[] args)
         {
             //call the hello world to console method;
             HelloWorldToConsole();
